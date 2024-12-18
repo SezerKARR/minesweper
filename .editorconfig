@@ -1,4 +1,0 @@
-﻿[*.cs]
-
-# CS0649: 'GroundCreater.gameEnd' alanı hiçbir zaman atanmaz ve her zaman varsayılan false değerine sahip olur
-dotnet_diagnostic.CS0649.severity = none
